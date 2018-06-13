@@ -7,7 +7,7 @@ GITWEB:
         http://git.0pointer.de/?p=mutrace.git
 
 INSTALLATION:
-        sudo apt-get install shtool autotools-dev binutils-dev
+        sudo apt-get install shtool autotools-dev binutils-dev autoconf-archive
         aclocal
         libtoolize
         autoheader
